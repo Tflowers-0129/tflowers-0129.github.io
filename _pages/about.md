@@ -113,11 +113,12 @@ Linfeng Xu, Qingbo Wu, Lili Pan, Fanman Meng, Hongliang Li, Chiyuan He, Hanxin W
 
 # 💡 Invention Patent
 
-• A Multimodal Continual Behavior Recognition Method Based on Vision-Sensor Attention Mechanism (*First Student Inventor*).
+- A Multimodal Continual Behavior Recognition Method Based on Vision-Sensor Attention Mechanism (*First Student Inventor*).
 
-• A Method for Continual Behavior Recognition Based on Predictable Multimodal Generalized Knowledge Representations (*Second Student Inventor*).
+- A Method for Continual Behavior Recognition Based on Predictable Multimodal Generalized Knowledge Representations (*Second Student Inventor*).
 
-• A Continual Learning Capability Evaluation Index for Multi-Source Heterogeneous Data Based on Old and New Task Confusion Rates (*First Student Inventor*).
+- A Continual Learning Capability Evaluation Index for Multi-Source Heterogeneous Data Based on Old and New Task Confusion Rates (*First Student Inventor*).
+
 
 # 🎖 Honors and Awards
 
