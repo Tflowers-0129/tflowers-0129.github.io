@@ -23,17 +23,30 @@ My research interests lie primarily in **deep learning**, **continual learning**
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted in ICASSP 2024. 
+- *2024.10*: 🎉🎉 One paper is accepted in IEEE TMM.
+- *2024.04*: &nbsp;🎉🎉 One paper is published in ICASSP 2024. 
 - *2024.03*: &nbsp;🎉🎉 One paper is published in the IEEE Sensors Journal. 
 - *2023.07*: &nbsp;🎉🎉 One paper is published in the IEEE TMM. 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/TMM-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Distribution-Level Memory Recall for Continual Learning: Preserving Knowledge and Avoiding Confusion](https://arxiv.org/abs/2408.02695) (preprint)
+
+**Shaoxu Cheng**, Kanglei Geng, Chiyuan He, Zihuan Qiu, Linfeng Xu$ ^{\ast}$, Heqian Qiu, Lanxiao Wang, Qingbo Wu, Fanman Meng, Hongliang Li
+
+- DMR method we proposed is the first to fit the distribution of representations in the feature space from the perspective of maintaining the old knowledge distribution and thereby maintaining the classification boundaries within the old task. We also propose an optimization plan for the fitted storage burden, which can ultimately maintain realistic classification boundaries with almost no increase in burden.
+
+</div>
+
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/icassp-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Vision-Sensor Attention Based Continual Multimodal Egocentric Activity Recognition](https://ieeexplore.ieee.org/document/10446924)
 
 **Shaoxu Cheng**, Chiyuan He, Kailong Chen, Linfeng Xu, Hongliang Li, Fanman Meng, Qingbo Wu
