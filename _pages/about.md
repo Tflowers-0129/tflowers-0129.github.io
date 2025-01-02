@@ -23,6 +23,8 @@ My research interests lie primarily in **deep learning**, **continual learning**
 
 
 # 🔥 News
+- *2024.11*: 🎉🎉 Awarded outstanding graduates of UESTC (marks a perfect ending for me, I am deeply grateful for the recognition from my university).
+- *2024.11*: 🎉🎉 Awarded outstanding graduate student.
 - *2024.10*: 🎉🎉 One paper is accepted in IEEE TMM.
 - *2024.04*: &nbsp;🎉🎉 One paper is published in ICASSP 2024. 
 - *2024.03*: &nbsp;🎉🎉 One paper is published in the IEEE Sensors Journal. 
@@ -135,6 +137,9 @@ Linfeng Xu, Qingbo Wu, Lili Pan, Fanman Meng, Hongliang Li, Chiyuan He, Hanxin W
 
 # 🎖 Honors and Awards
 
+- *2024.11*: Won Outstanding Graduates of UESTC.
+- *2024.11*: Won Outstanding Graduate Student.
+- *2024.09*: First Prize Academic Scholarship.
 - *2024.04*: Won Second Prize in Huawei Software Elite Challenge Southwest Region.
 - *2023.09*: Third Prize Academic Scholarship.
 - *2022.09*: Third Prize Graduate Freshman Scholarship. 
@@ -144,6 +149,6 @@ Linfeng Xu, Qingbo Wu, Lili Pan, Fanman Meng, Hongliang Li, Chiyuan He, Hanxin W
 - *2020.05* Won the First Prize in the 17th May Mathematical Modeling Competition National Award.
 
 # 📖 Educations
-- *2022.09 - now*, MSc Information and Communication Engineering in University of Electronic Science and Technology of China, GPA: 3.74/4.0. 
+- *2022.09 - now*, MSc Information and Communication Engineering in the University of Electronic Science and Technology of China, GPA: 3.74/4.0. 
 - *2018.09 - 2022.06*, BEng Electronic and Information Engineering in Southwest Jiaotong University, AVG: 87.16/100 (top 20%). 
 
